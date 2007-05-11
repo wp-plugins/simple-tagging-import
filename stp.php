@@ -1,5 +1,13 @@
 <?php
 
+/*
+Plugin Name: Simple Tagging Import
+Plugin URI: http://wordpress.org/extend/plugins/simple-tagging-import/
+Description: This plugin adds the ability to create a list of tags, similar to a category list.
+Author: Brent Loertscher
+Version: 1.1
+*/ 
+
 class STP_Import {
 	
 	function header()  {

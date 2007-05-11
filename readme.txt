@@ -1,9 +1,10 @@
 === Plugin Name ===
 Contributors: bloertscher
+Donate link:
 Tags: tags
 Requires at least: 2.3-alpha
 Tested up to: 2.3-alpha
-Stable tag: 1.0
+Stable tag: 1.1
 
 This import plugin makes it possible to import tags created with Simple Tagging into the native tagging structure.
 
